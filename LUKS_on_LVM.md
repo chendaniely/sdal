@@ -17,4 +17,4 @@ sudo mount /dev/mapper/teen_sex_Encrypted /home/sdal/projects/teen_sex
 
 - Open `/etc/crypttab` to create a mapper that can then be referenced in the fstab
 - Mount the device in fstab `/etc/fstab`
-- Auto mount in the containers `/home/sdal/vms/lxc/sdal_config`
+- Auto mount in the containers `/home/vms/lxc/sdal_config`
