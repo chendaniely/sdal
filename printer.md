@@ -1,0 +1,4 @@
+- sdal 2nd floor printer
+    - `lpd://38.68.234.185/print`
+    - Rioch MP C4504
+    - Savin mp 4505 PS
