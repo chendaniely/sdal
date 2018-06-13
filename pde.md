@@ -26,6 +26,8 @@ Setup instructions for the mac
     - Click on Trust chervion on left hand side.
     - Use pulldown to set "when to use certificate" to Always Trust
 6. Plugging your CAC in for the frist time
+    - When your first plug in your CAC, it will ask you pair your new card with the computer,
+      pick the first "Card Identity": `Certificate For Digital Signature`
     - will ask you for your password and pin a few times, pay attention to the prompt for your PIN, and the prompt to unlock your keychain.
 7.  You can test to see if everything is working by going to `pde.army.mil` and seeing if the page loads with your CAC plugged in.
 
