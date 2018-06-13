@@ -33,3 +33,7 @@ Setup instructions for the mac
 
 8.  Install Citrix Reciever:
     - https://www.citrix.com/products/receiver/
+
+# Test that it all workds
+
+https://pde.army.mil
