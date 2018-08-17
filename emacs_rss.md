@@ -1,1 +1,1 @@
-`/ssh:chend@lightfoot.vbi.vt.edu:172.18.0.28:~`
+`/ssh:chend@lightfoot.vbi.vt.edu|ssh:172.18.0.28:~`
